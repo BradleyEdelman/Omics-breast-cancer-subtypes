@@ -30,11 +30,11 @@ The data used in this project is obtained from the following sources:
    - [Gene Level Copy Number (ABSOLUTE)](https://xenabrowser.net/datapages/?dataset=TCGA-BRCA.gene-level_absolute.tsv&host=https%3A%2F%2Fgdc.xenahubs.net&removeHub=https%3A%2F%2Fxena.treehouse.gi.ucsc.edu%3A443)
    
 3. **Epigenomics (DNA Methylation)**
-   - [Illumina Human Methylation 450]([https://xenabrowser.net/datapages/?dataset=TCGA-BRCA.methylation_450.tsv&host=https%3A%2F%2Fgdc.xenahubs.net](https://xenabrowser.net/datapages/?dataset=TCGA-BRCA.methylation450.tsv&host=https%3A%2F%2Fgdc.xenahubs.net&removeHub=https%3A%2F%2Fxena.treehouse.gi.ucsc.edu%3A443))
+   - [Illumina Human Methylation 450](https://xenabrowser.net/datapages/?dataset=TCGA-BRCA.methylation450.tsv&host=https%3A%2F%2Fgdc.xenahubs.net&removeHub=https%3A%2F%2Fxena.treehouse.gi.ucsc.edu%3A443)
 
 4. **Clinical and Survival Data**
-   - [TCGA-BRCA Clinical Data]([https://xenabrowser.net/datapages/?dataset=TCGA-BRCA.clinical.tsv&host=https%3A%2F%2Fgdc.xenahubs.net](https://xenabrowser.net/datapages/?dataset=TCGA-BRCA.clinical.tsv&host=https%3A%2F%2Fgdc.xenahubs.net&removeHub=https%3A%2F%2Fxena.treehouse.gi.ucsc.edu%3A443))
-   - [TCGA-BRCA Survival Data]([https://xenabrowser.net/datapages/?dataset=TCGA-BRCA.survival_data.tsv&host=https%3A%2F%2Fgdc.xenahubs.net](https://xenabrowser.net/datapages/?dataset=TCGA-BRCA.survival.tsv&host=https%3A%2F%2Fgdc.xenahubs.net&removeHub=https%3A%2F%2Fxena.treehouse.gi.ucsc.edu%3A443)) </br> </br>
+   - [TCGA-BRCA Clinical Data](https://xenabrowser.net/datapages/?dataset=TCGA-BRCA.clinical.tsv&host=https%3A%2F%2Fgdc.xenahubs.net](https://xenabrowser.net/datapages/?dataset=TCGA-BRCA.clinical.tsv&host=https%3A%2F%2Fgdc.xenahubs.net&removeHub=https%3A%2F%2Fxena.treehouse.gi.ucsc.edu%3A443)
+   - [TCGA-BRCA Survival Data](https://xenabrowser.net/datapages/?dataset=TCGA-BRCA.survival_data.tsv&host=https%3A%2F%2Fgdc.xenahubs.net](https://xenabrowser.net/datapages/?dataset=TCGA-BRCA.survival.tsv&host=https%3A%2F%2Fgdc.xenahubs.net&removeHub=https%3A%2F%2Fxena.treehouse.gi.ucsc.edu%3A443) </br> </br>
 
 ## Objectives and Future Directions
 The goal of this project is to:
