@@ -27,7 +27,7 @@ The data used in this project is obtained from the following sources:
    - [TCGA-BRCA STAR FPKM](https://xenabrowser.net/datapages/?dataset=TCGA-BRCA.star_fpkm.tsv&host=https%3A%2F%2Fgdc.xenahubs.net)
    
 2. **Genomics (Copy Number Variations)**
-   - [Gene Level Copy Number (ABSOLUTE)]([https://xenabrowser.net/datapages/?dataset=TCGA-BRCA.ABSOLUTE.gene_level_CN.tsv&host=https%3A%2F%2Fgdc.xenahubs.net](https://xenabrowser.net/datapages/?dataset=TCGA-BRCA.gene-level_absolute.tsv&host=https%3A%2F%2Fgdc.xenahubs.net&removeHub=https%3A%2F%2Fxena.treehouse.gi.ucsc.edu%3A443))
+   - [Gene Level Copy Number (ABSOLUTE)](https://xenabrowser.net/datapages/?dataset=TCGA-BRCA.gene-level_absolute.tsv&host=https%3A%2F%2Fgdc.xenahubs.net&removeHub=https%3A%2F%2Fxena.treehouse.gi.ucsc.edu%3A443)
    
 3. **Epigenomics (DNA Methylation)**
    - [Illumina Human Methylation 450]([https://xenabrowser.net/datapages/?dataset=TCGA-BRCA.methylation_450.tsv&host=https%3A%2F%2Fgdc.xenahubs.net](https://xenabrowser.net/datapages/?dataset=TCGA-BRCA.methylation450.tsv&host=https%3A%2F%2Fgdc.xenahubs.net&removeHub=https%3A%2F%2Fxena.treehouse.gi.ucsc.edu%3A443))
